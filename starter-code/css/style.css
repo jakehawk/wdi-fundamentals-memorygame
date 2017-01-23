@@ -1,0 +1,74 @@
+.board {
+	height: 50%;
+	width: 50%;
+	display: inline-block;
+}
+.card {
+	height: 200px;
+	width: 150px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background: yellow;
+	float: left;
+	margin: 8%;
+}
+.email {
+	color: black;
+}
+.navlink {
+	color: white;
+	padding: 20px;
+	display: block;
+	float: left;
+	background-color: #808080;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+img {
+	height: 198px;
+	width: 148px;
+	padding-top: 1px;
+	border-radius: 10px;
+}
+nav {
+	background-color: #808080;
+}
+h1 {
+	color: rgb(2, 132, 130);
+	font-size: 45px;
+}
+h2 {
+	color: #f0ac3d;
+}
+body {
+	text-align: center;
+	background-color: rgba(0, 0, 0, .03);
+}
+p {
+	margin: 0 auto;
+	text-align: center;
+	width: 750px;
+	font-size: 25px;
+}
+footer {
+	background-color: #808080;
+	position: absolute;
+  	right: 0;
+  	bottom: 0;
+  	left: 0;
+  	padding: 1rem;
+  	background-color:
+}
+
+a:hover {
+	background-color: rgba(500,100,0,1);
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}

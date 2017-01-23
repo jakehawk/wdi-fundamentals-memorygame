@@ -1,6 +1,6 @@
 .board {
 	height: 50%;
-	width: 50%;
+	width: 80%;
 	display: inline-block;
 }
 .card {
@@ -17,11 +17,24 @@
 }
 .navlink {
 	color: white;
-	padding: 35px;
+	padding: 20px;
 	display: block;
 	float: left;
-	background-color: #ffbf00;
+	background-color: #808080;
+	font-size: 25px;
+	text-decoration: none;
 }
+
+/*button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+} */
 
 img {
 	height: 198px;
@@ -34,23 +47,30 @@ nav {
 }
 h1 {
 	color: rgb(2, 132, 130);
+	font-size: 45px;
+	margin: 0.67em 0 0 0;
 }
 h2 {
 	color: #ffd700;
 }
 body {
 	text-align: center;
+	background-color: rgba(0, 0, 0, .03);
+	margin: 0 auto;
 }
 p {
 	margin: 0 auto;
 	text-align: center;
+	width: 750px;
+	font-size: 25px;
 }
 footer {
 	background-color: #808080;
+  	padding: 1rem;
 }
 
 a:hover {
-	background-color: #ee5f3c;
+	background-color: rgba(500,100,0,1);
 }
 .clearfix:after {
 	visibility: hidden;
