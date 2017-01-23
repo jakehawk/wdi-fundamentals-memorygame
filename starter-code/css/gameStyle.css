@@ -10,10 +10,10 @@
 	border-radius: 10px;
 	background: yellow;
 	float: left;
-	margin: 8%;
+	margin: 5% 8%;
 }
 .email {
-	color: red;
+	color: black;
 }
 .navlink {
 	color: white;
