@@ -46,12 +46,6 @@ body {
 	background-color: rgba(0, 0, 0, .03);
 	margin: 0 auto;
 }
-p {
-	margin: 0 auto;
-	text-align: center;
-	width: 750px;
-	font-size: 25px;
-}
 footer {
 	background-color: #808080;
 	position: absolute;
